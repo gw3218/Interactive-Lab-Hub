@@ -10,7 +10,7 @@ A lab report by Wen Guo
 
 ## Part A. Set Up a Breadboard
 
-![test](1_breadboard setup.png)
+![test](https://raw.githubusercontent.com/gw3218/Interactive-Lab-Hub/master/lab1/1_breadboard%20setup.png)
 
 ## Part B. Manually Blink a LED
 
