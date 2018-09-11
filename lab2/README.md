@@ -19,7 +19,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part A. Solder your LCD panel
 
 **Take a picture of your soldered panel and add it here!**
-![soldered panel](soldered_panel.jpg)
+![soldered panel](https://github.com/gw3218/Interactive-Lab-Hub/blob/master/lab2/soldered_panel.JPG)
 
 
 ## Part B. Writing to the LCD
