@@ -19,19 +19,27 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part A. Solder your LCD panel
 
 **Take a picture of your soldered panel and add it here!**
+![](soldered_panel.jpg)
+
 
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+<br> We need 5V to power the display
 
 **b. What voltage level do you need to power the display backlight?**
-   
+<br> Around 2.5V
+
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
+<br> Initially, the output voltage of the potentialmeter was so low that I could not see the "hello world". Then I adjusted the potentialmeter and the "hello world" appeared.
+
 
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
+<br> I need to change the argument of lcd.print function and replace "Hello, World" with my name.
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
-
+![](multimeter_code.png)
+[Video](https://youtu.be/m-HNpAT1uU0) 
 
 ## Part C. Using a time-based digital sensor
 
@@ -41,12 +49,18 @@ Include your responses to the bold questions on your own fork of [this lab repor
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
- 
-**b. What song is playing?**
+<br> I need to change the following line. By replacing 1000 with 500, the song will play twice as fast. 
 
+int noteDuration = 1000 / noteDurations[thisNote];
+
+
+**b. What song is playing?**
+<br> Star War
 
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
-
+<br>
+[Timer Video](https://youtu.be/J6TXTABcc8E)
+<br>
 **b. Post a link to the completed lab report your class hub GitHub repo.**
