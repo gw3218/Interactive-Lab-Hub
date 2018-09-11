@@ -39,6 +39,7 @@ Include your responses to the bold questions on your own fork of [this lab repor
  
 **e. Include a copy of your Lowly Multimeter code in your lab write-up.**
 ![](multimeter_code.png)
+<br>
 [Video](https://youtu.be/m-HNpAT1uU0) 
 
 ## Part C. Using a time-based digital sensor
