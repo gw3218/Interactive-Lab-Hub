@@ -43,9 +43,11 @@ delay(15) defines the interval between two movement, that is, the speed of servo
 ## Part D. Paper puppet
 
 **a. Make a video of your proto puppet.**
+<br>
 [![](paper puppet.png)](https://youtu.be/cA46KFo4h6o)
 [Video](https://youtu.be/cA46KFo4h6o)
 
 ## Part E. Make it your own
 **a. Make a video of your final design.**
  
+	
