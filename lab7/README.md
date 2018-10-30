@@ -42,6 +42,8 @@ I tried the nyacat.
 
 I also tried the [Teachable Machine Boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate). After training the model, it can classify the image into one of the three categories. 
 
+[Video](https://youtu.be/NcIqb9qi05Y)
+<br>
 ![](ML_1.png)
 
 ![](ML_2.png)
