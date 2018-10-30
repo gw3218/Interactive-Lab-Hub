@@ -13,6 +13,6 @@
 ![](sketch.JPG)
 
 [Video](https://youtu.be/me-7qpGVxWo)
-[![](serial monitor.png)](https://youtu.be/me-7qpGVxWo)
+[![](serial_monitor.png)](https://youtu.be/me-7qpGVxWo)
 
 
