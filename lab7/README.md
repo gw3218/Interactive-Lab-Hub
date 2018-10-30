@@ -10,13 +10,18 @@
 
 ## Part A. HelloYou from the Raspberry Pi
 
-**a. Link to a video of your HelloYou sketch running.**
+[Video](https://youtu.be/me-7qpGVxWo)
+[![](./prelab/serial monitor.png)](https://youtu.be/me-7qpGVxWo)
+
 
 ## Part B. Web Camera
 
 **a. Compare `helloYou/server.js` and `IDD-Fa18-Lab7/pictureServer.js`. What elements had to be added or changed to enable the web camera? (Hint: It might be good to know that there is a UNIX command called `diff` that compares files.)**
 
 **b. Include a video of your working video doorbell**
+<br>
+[Video](doorbell example.JPG)
+[![](doorbell example.JPG)](https://www.youtube.com/watch?v=w1Jryqgt8Us)
 
 ## Part C. Make it your own
 
