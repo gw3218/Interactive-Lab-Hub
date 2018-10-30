@@ -11,7 +11,7 @@
 ## Part A. HelloYou from the Raspberry Pi
 
 [Video](https://youtu.be/me-7qpGVxWo)
-[![](serial monitor.png)](https://youtu.be/me-7qpGVxWo)
+![](serial monitor.png)
 
 
 ## Part B. Web Camera
@@ -30,7 +30,7 @@ The following is the code that takes picture when I press the button.
 **b. Include a video of your working video doorbell**
 <br>
 [Video](https://www.youtube.com/watch?v=w1Jryqgt8Us)
-[![](doorbell example.JPG)](https://www.youtube.com/watch?v=w1Jryqgt8Us)
+![](doorbell example.JPG)
 
 ## Part C. Make it your own
 
