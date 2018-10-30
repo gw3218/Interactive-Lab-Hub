@@ -40,5 +40,10 @@ The following is the code that takes picture when I press the button.
 I tried the nyacat. 
 ![](nyancat.png)
 
+I also tried the [Teachable Machine Boilerplate](https://github.com/googlecreativelab/teachable-machine-boilerplate). After training the model, it can classify the image into three categories. 
+
+![](ML_1.png)
+
+![](ML_2.png)
 
 **b. Upload a video of your working modified project**
